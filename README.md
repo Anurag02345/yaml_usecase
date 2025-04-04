@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project demonstrates how to work with YAML files in Python. The application reads student information from a YAML file and allows users to view all students and filter them by GPA.
 
-## 🔧 Features
+## 🛠️ Features
 ✅ Load student data from a YAML file
 ✅ Display all student records
 ✅ Filter students based on a minimum GPA
@@ -14,7 +14,7 @@ Before running the project, ensure you have the following installed:
 - **Python 3.7+** [Download here](https://www.python.org/downloads/)
 - **PyYAML library** (install using `pip install pyyaml`)
 
-## 📂 Project Structure
+## 💂️ Project Structure
 ```
 📁 project-directory/
  ├── 📄 students.yaml    # YAML file containing student data
@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
  ├── 📄 README.md        # Project documentation
 ```
 
-## 🛠 Installation & Setup
+## 🛠️ Installation & Setup
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/your-repository.git
@@ -38,8 +38,10 @@ Before running the project, ensure you have the following installed:
    ```bash
    pip install pyyaml
    ```
-![img](https://github.com/harshjindal18/yaml_usecase/blob/a316546cd2fcb2042d4a0798a8f053ae2d5f6a1e/Screenshot%202025-04-01%20162758.png)
-## 📄 YAML File (students.yaml)
+
+![img](https://github.com/Anurag02345/yaml_usecase/blob/7cf6c3a2c271764b4ecfe34e7bf1960065fc7810/Docker%20yaml1.png)
+
+## 📝 YAML File (students.yaml)
 Create a `students.yaml` file with the following structure:
 ```yaml
 students:
@@ -56,6 +58,8 @@ students:
     major: Physics
     gpa: 3.9
 ```
+
+![img](https://github.com/Anurag02345/yaml_usecase/blob/7cf6c3a2c271764b4ecfe34e7bf1960065fc7810/Docker%20yaml-2.png)
 
 ## 🚀 Running the Application
 Execute the script using the following command:
@@ -81,8 +85,4 @@ Students with GPA >= 3.6:
 Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 ```
-![img]((https://github.com/Anurag02345/yaml_usecase/blob/7027bd8c1bdbcb7e2cd6f1e8c5344082ef9f72de/Docker%20yaml-2.png))
 
-
-
-# yaml_500107853
